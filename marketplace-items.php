@@ -1,14 +1,14 @@
 <?php
 /*
 Plugin Name: Marketplace Items
-Version: 1.5.3
-Plugin URI: https://getbutterfly.com/wordpress-plugins/
+Version: 1.5.4
+Plugin URI: https://github.com/wpcorner/marketplace-items
 Description: Display your Envato marketplace portfolio inside a post or a page.
-Author: Ciprian Popescu
-Author URI: https://getbutterfly.com/
+Author: Patrick Lumumba
+Author URI: https://wpcorner.co/author/patrick-l/
 Text Domain: marketplace-items
 
-Copyright 2012-2023 Ciprian Popescu (email: getbutterfly@gmail.com)
+Copyright 2012-2023 Ciprian Popescu (email: info@wpcorner.co)
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
