@@ -1,0 +1,24 @@
+ul.envato-wrap,
+ul.envato-wrap * {
+    box-sizing: border-box;
+}
+
+ul.envato-wrap {
+    display: flex;
+    padding: 0;
+    margin: 8px;
+    flex-wrap: wrap;
+}
+ul.envato-wrap li {
+    list-style: none;
+    padding: 0;
+    margin: 8px;
+}
+
+ul.envato-wrap.envato-wrap--loose li {
+    flex: 1;
+}
+
+.envato-thumb-compact img {
+	margin: 8px;
+}
